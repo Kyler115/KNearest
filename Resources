@@ -1,0 +1,27 @@
+Resources and help:
+https://www.geeksforgeeks.org/k-nearest-neighbor-algorithm-in-python
+
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+
+https://www.geeksforgeeks.org/reading-csv-files-in-python/
+
+https://www.w3schools.com/python/python\_ml\_knn.asp
+
+https://stackoverflow.com/questions/25408393/
+getting-individual-colors-from-a-color-map-in-matplotlib
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.
+DataFrame.select_dtypes.html
+
+https://stackoverflow.com/questions/21065938/
+read-a-single-column-of-a-csv-and-store-in-an-array
+
+https://scikit-learn.org/stable/auto_examples/neighbors/
+plot_classification.html#sphx-glr-auto-
+examples-neighbors-plot-classification-py
+
+https://stackoverflow.com/questions/27324356
+/picking-n-neighbors-for-kneighborsclassifier
+
+https://scikit-learn.org/stable/modules/generated/
+sklearn.neighbors.KNeighborsClassifier.html
